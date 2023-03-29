@@ -267,6 +267,10 @@ img.atracao{
     font-size: 20px;
     line-height: 32px;
 }
+.como-funciona{
+    
+    margin-top: 100px;
+}
 /* Mobile modelo de negócio*/
 @media only screen and (max-width:480px){
     .pai{
